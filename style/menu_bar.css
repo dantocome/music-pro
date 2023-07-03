@@ -12,9 +12,16 @@
     display: flex;
     gap: 50px;
 }
+.sear{
+    width: 30px;
+    margin-left: -20px;
+}
+.diff{
+    margin-left: 50px;
+}
 .ho li a{
     color: rgb(159, 156, 156);
-    font-size: 19px;
+    font-size: 22px;
     font-weight: bold;
 }
 .ho li a:hover{
