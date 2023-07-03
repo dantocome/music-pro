@@ -1,0 +1,46 @@
+.menu_bar .sea{
+    background-color: none;
+    width: 20px;
+}
+.container2{
+    display: flex;
+    gap: 400px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.ho{
+    display: flex;
+    gap: 50px;
+}
+.ho li a{
+    color: rgb(159, 156, 156);
+    font-size: 19px;
+    font-weight: bold;
+}
+span{
+    color: white;
+}
+.energize{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 70px;
+    gap: 50px;
+}
+.menu-energy{
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+.energ{
+    display: flex;
+    gap: 30px;
+}
+.energ li a{
+    color: white;
+}
+input[type="buttonn"]{
+    width: 100px;
+    cursor: pointer;
+    text-align: center;
+}
+
