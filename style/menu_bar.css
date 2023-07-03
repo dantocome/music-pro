@@ -17,7 +17,7 @@
     font-size: 19px;
     font-weight: bold;
 }
-:hover li a{
+.ho li a:hover{
 color: white;
 }
 span{
