@@ -34,3 +34,6 @@ h1{
 .mg{
     width: 15px;
 }
+.artists{
+    display: flex;
+}
