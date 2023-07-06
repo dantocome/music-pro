@@ -4,6 +4,7 @@
     min-height: 800px;
     position: relative;
     background-color: black;
+    z-index: 1;
 }
 .circle_container{
     width: 100%;
@@ -12,7 +13,9 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     margin-left: 300px;
-    filter: blur(120px);  
+    filter: blur(120px); 
+    z-index: -1;
+     
 }
 .circles{
     width: 60%;
@@ -155,6 +158,10 @@ i:hover{
     .logos{
         display: block;
     }
+    .but{
+        position: fixed;
+    }
+    
 }
 
 
