@@ -136,6 +136,14 @@ i:hover{
     margin-left: 60px;
     z-index: 2;
 }
+.mixart_container{
+    
+}
+.buttom-col{
+    display: flex;
+}
+
+
 @media screen and (max-width:400px){
     .home{
         display: none;
