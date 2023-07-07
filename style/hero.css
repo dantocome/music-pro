@@ -1,10 +1,11 @@
  .hero_menu{
     width: 100vw;
     height: 100%;
-    min-height: 800px;
+    min-height: 700px;
     position: relative;
     background-color: black;
     z-index: 1;
+    margin-top: 70px;
 }
 .circle_container{
     width: 100%;
@@ -13,7 +14,7 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     margin-left: 300px;
-    filter: blur(120px); 
+    filter: blur(140px); 
     z-index: -1;
      
 }
@@ -45,12 +46,22 @@
 }
 .container{
     display: flex;
-    margin-left: 20px;
+    margin-left: px;
     padding: 20px;
     gap: 400px;
+    position: fixed;
+    margin-top: -70px;
+    background-color:black;
+    height: 70px;
+    width: 100vw;
+
+    
+
 }
-.home li a{
+.home, h2 li a{
     color: rgb(118, 114, 114);
+    margin-top: -5px;
+
 }
 .home li a:hover{
     color: white;
@@ -132,13 +143,13 @@ i:hover{
     background-color: rgb(139, 132, 132);
 }
 .but{
-    margin-top: 60px;
-    margin-left: 60px;
+    padding: 90px;
+    margin-left: -40px;
     z-index: 2;
 }
 .mixart_container{
-    margin-top: 50px;
-    margin-left: 60px;
+    margin-top: -20px;
+    margin-left: 50px;
 }
 .buttom-col{
     display: flex;
@@ -196,6 +207,12 @@ input[type="btn"]{
 }
 input[type="btn"]:hover{
    background-color:  rgb(41, 38, 38);
+}
+.rosy{
+    color: white;
+}
+.mum{
+    padding: 10px;
 }
 
 
