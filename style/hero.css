@@ -58,7 +58,7 @@
     
 
 }
-.home, h2 li a{
+.home li a{
     color: rgb(118, 114, 114);
     margin-top: -5px;
 
@@ -156,8 +156,9 @@ i:hover{
     margin-top: 20px;
     gap: 25px;
 }
- h2{
+ h1{
     color: white;
+    font-size: 40px;
 }
 .more{
     display: flex;
@@ -209,6 +210,11 @@ input[type="btn"]:hover{
    background-color:  rgb(41, 38, 38);
 }
 .rosy{
+    color: rgb(115, 109, 109);
+    font-size: 17px;
+    font-weight: bold;
+}
+h2{
     color: white;
 }
 .mum{
