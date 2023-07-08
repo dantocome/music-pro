@@ -206,16 +206,16 @@ i:hover{
 .bt:hover{
     background-color: rgb(41, 38, 38);
 }
-input[type="btn"]{
+.btttn{
     text-align: center;
-    width: 60px;
+    width: 70px;
     color: white;
     background-color: black;
     border: 1px solid  rgb(32, 31, 31);
     border-radius: 40px;
     cursor: pointer;
 }
-input[type="btn"]:hover{
+.bttn:hover{
    background-color:  rgb(41, 38, 38);
 }
 .rosy{
