@@ -54,10 +54,6 @@
     background-color:black;
     height: 70px;
     width: 100vw;
-    z-index: -0.5;
-
-    
-
 }
 .home li a{
     color: rgb(118, 114, 114);
@@ -163,6 +159,7 @@ i:hover{
 .buttom-col{
     display: flex;
     margin-top: 20px;
+    flex-direction: row;
     gap: 25px;
 }
  h1{
@@ -248,6 +245,7 @@ h2{
     .buttom-col{
         display: flex;
         flex-direction:column ;
+        
     }
     
 }

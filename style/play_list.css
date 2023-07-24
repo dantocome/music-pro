@@ -16,3 +16,14 @@
     border-radius: 40px;
     cursor: pointer;
 }
+.buttom-col{
+    display: flex;
+    
+    
+}
+@media screen and (max-width:400px){
+    .buttom-col{
+        display: flex;
+        flex-direction: column;
+    }
+}
