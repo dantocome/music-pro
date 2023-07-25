@@ -1,6 +1,62 @@
 .trending-songs .trend{
     background-color: black;
 }
-h3{
+h4{
     color: gray;
+}
+h3{
+    color: white;
+    font-size: 16px;
+}
+.img7{
+    margin-top: 20px;
+}
+.img8{
+    margin-top: 10px;
+    border-radius: 2px;
+}
+.img9{
+    margin-top: 10px;
+    border-radius: 2px;
+}
+.img10{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img11{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+
+
+.guy{
+    margin-top: -5px;
+}
+.buttom-co{
+    display: flex;
+
+}
+
+
+.my-baby{
+    display: flex;
+    gap: 15px;
+}
+.spy{
+    display: flex;
+    gap: 15px;
+}
+.God-did{
+    display: flex;
+    gap: 15px;
+}
+.did{
+    margin-top: -5px;
+}
+.musk{
+    display: flex;
+    gap: 15px;
+}
+.dia{
+    margin-top: -5px;
 }
