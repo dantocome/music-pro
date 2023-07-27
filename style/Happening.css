@@ -1,10 +1,60 @@
  .happening-music{
     background-color: black;
+    height: 100%;
+    min-height: 500px;
 }
 .happening-mus{
     margin-left: 50px;
 }
-.buttom-co{
+.buttom-coo{
     display: flex;
-    gap: 150px;
+    gap: 260px;
+}
+.img19{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img20{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img21{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img22{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img23{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img24{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img25{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img26{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img27{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img28{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img29{
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.img30{
+    border-radius: 2px;
+    margin-top: 10px;
 }

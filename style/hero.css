@@ -17,6 +17,18 @@
     z-index: 1;
      
 }
+.mag{
+    display: none;
+}
+.butt{
+    display: none;
+}
+.nu{
+    display: none;
+}
+.search{
+    display: none;
+}
 .circles{
     width: 60%;
     height: 200px;
