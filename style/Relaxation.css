@@ -1,9 +1,11 @@
 .Relaxation-music{
     background-color: black;
+    height: 100%;
+    min-height: 500px;
     
 }
 .rel-mus{
-    
+    margin-left: 50px;
 }
 h4{
     color: white;

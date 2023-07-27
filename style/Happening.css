@@ -1,0 +1,10 @@
+ .happening-music{
+    background-color: black;
+}
+.happening-mus{
+    margin-left: 50px;
+}
+.buttom-co{
+    display: flex;
+    gap: 150px;
+}
