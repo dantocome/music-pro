@@ -20,7 +20,7 @@
     
     
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:375px){
     .buttom-col{
         display: flex;
         flex-direction: column;

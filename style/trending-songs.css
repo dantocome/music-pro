@@ -97,3 +97,10 @@ h3{
 .dia{
     margin-top: -5px;
 }
+@media screen and (max-width:375px){
+    .buttom-co{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
