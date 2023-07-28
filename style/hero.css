@@ -244,11 +244,41 @@ h2{
         display: none;
     }
     .circle_container{
-        display: block;
-        margin: auto;
+      background-image: url(https://www.gstatic.com/youtube/media/ytm/images/sbg/wsbg@4000x2250.png?sqp=CNzu9_sF-oaymwEICKALEKcGWAE&rs=ALLJMcLFnwAjdffUTx-fXHiZGS2JeF3eFg);
+      margin: auto;
+      filter: blur(90px);
+      z-index: -1;
     }
+    .container{
+        position: fixed;
+        display: flex;
+        width: 400px;
+        
+    }
+    .but{
+        margin-left: -50px;
+    }
+    
+    .hero_menu{
+        
+    }
+    .circles:nth-child(3){
+        display: none;
+        
+    }
+    .circles:nth-child(1){
+        display: none;
+    }
+    .circles:nth-child(2){
+        display: none;
+    }
+    
     .logos{
         display: block;
+    }
+    .log{
+        display: flex;
+        gap: 20px;
     }
     .but{
         position: fixed;
@@ -258,7 +288,27 @@ h2{
         flex-direction:column ;
         
     }
-    
+    .search{
+        margin-left: 30px;
+    }
+    .butt{
+        width: 30px;
+        font-size: 15px;
+        font-weight: bold;
+        color: rgb(233, 230, 230);
+        background-color: rgba(192, 188, 188, 0.809);
+        border-radius: 100px;
+        border: none;
+    }
+    .nu{
+        display: block;
+    }
+    .mag{
+        display: block;
+    }
+    .butt{
+        display: block;
+    }
 }
 
 
