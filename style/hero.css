@@ -174,7 +174,6 @@ i:hover{
     margin-top: 20px;
     flex-direction: row;
     gap: 25px;
-    position: relative;
 }
  h1{
     color: white;
@@ -246,25 +245,21 @@ h2{
     .home{
         display: none;
     }
+    
     .circle_container{
       background-image: url(https://lh3.googleusercontent.com/7WRca0tfLKDnCriR38QVbLWF-dWyT2buMpBMV45KHJr0TlP83GvLT8SRWOjoLip3zUQqbj55dAxGJzwD=w1500-h844-l90-rj);
       margin: auto;
-      filter: blur(180px);
+      filter: blur(170px);
       z-index: -5;
-      position: absolute;
+      
     }
     .container{
         position: fixed;
         display: flex;
         width: 375px;
-        z-index: 2;
-        
-        
+        z-index: 2;  
     }
     
-    .hero_menu{
-        
-    }
     .circles:nth-child(3){
         display: none;
         
@@ -289,7 +284,7 @@ h2{
         grid-template-columns: repeat(4, 1fr);
         margin-top: -20px;
         margin-left: -70px;
-        gap: 5px;
+        gap: 2px;
         z-index: 5;
         
         
@@ -336,11 +331,13 @@ h2{
 
     }
     .buttom-col{
-        margin-left: -20px;
-        display: flex;
-        flex-direction: row;
-        z-index: 1;  
+        border: 1px solid white;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        margin-left: -50px;
+        
     }
+
     .btttn{
         width: 30px;
     }
@@ -362,19 +359,19 @@ h2{
         width: 80px;
         height: 35px;
         font-size: 14px;
-        background-color: rgb(97, 96, 96);
+        background-color: rgb(60, 59, 59);
     }
     .button{
         height: 35px;
         width: 50px;
         font-size: 14px;
-        background-color:   rgb(97, 96, 96);
+        background-color:   rgb(60, 59, 59);
     }
     .butn{
         width: 80px;
         height: 35px;
         font-size: 14px;
-        background-color: rgb(97, 96, 96);
+        background-color: rgb(60, 59, 59);
     }
     .buttn{
         display: none;
@@ -383,7 +380,7 @@ h2{
         width: 80px;
         height: 35px;
         font-size: 14px;
-        background-color: rgb(97, 96, 96);
+        background-color: rgb(60, 59, 59);
     }
     .img1{
         width: 180px;
