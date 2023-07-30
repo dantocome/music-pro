@@ -5,6 +5,7 @@
     background-color: black;
     z-index: 1;
     margin-top: 70px;
+    width: 100vw;
 }
 .circle_container{
     width: 100%;
