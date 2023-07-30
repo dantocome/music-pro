@@ -20,7 +20,7 @@
 .container{
     border-bottom: 1px solid gray;
     position: fixed;
-    background-color: black;
+    
     width: 1400px;
 }
 .mag{
