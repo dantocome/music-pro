@@ -4,7 +4,7 @@
     position: relative;
     background-color: black;
     z-index: 1;
-    width: 100vw;
+    
 }
 .circle_container{
     width: 100%;
@@ -20,7 +20,6 @@
 .container{
     border-bottom: 1px solid gray;
     position: fixed;
-    
     width: 1320px;
 }
 .mag{
