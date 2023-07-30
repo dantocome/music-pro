@@ -2,6 +2,7 @@
     background-color: black;
     height: 100%;
     min-height: 500px;
+    z-index: -1;
     
     
 }
@@ -10,4 +11,7 @@
 }
 h4{
     color: white;
+}
+.buttom-col{
+    z-index: -1;
 }

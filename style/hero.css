@@ -3,7 +3,7 @@
     min-height: 750px;
     position: relative;
     background-color: black;
-    z-index: 1;
+    
     
 }
 .circle_container{
@@ -19,9 +19,12 @@
 }
 .container{
     position: fixed;
-    width: 1340px;
+    width: 1370px;
     background-color: black;
-
+    display: flex;
+}
+.home_menu{
+    margin-left: 150px;
 }
 .mag{
     display: none;
