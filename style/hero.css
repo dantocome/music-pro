@@ -1,10 +1,9 @@
  .hero_menu{
     height: 100%;
-    min-height: 700px;
+    min-height: 750px;
     position: relative;
     background-color: black;
     z-index: 1;
-    margin-top: 70px;
     width: 100vw;
 }
 .circle_container{
@@ -17,6 +16,12 @@
     filter: blur(140px); 
     z-index: 1;
      
+}
+.container{
+    border-bottom: 1px solid gray;
+    position: fixed;
+    background-color: black;
+    width: 1500px;
 }
 .mag{
     display: none;
@@ -56,17 +61,7 @@
     margin-left: -50px;
 
 }
-.container{
-    display: flex;
-    margin-left: px;
-    padding: 20px;
-    gap: 400px;
-    position: fixed;
-    margin-top: -70px;
-    background-color:black;
-    height: 70px;
-    width: 1500px;
-}
+
 .home li a{
     color: rgb(118, 114, 114);
     margin-top: -5px;
