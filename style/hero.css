@@ -163,7 +163,7 @@ i:hover{
 }
 .top-col{
     display: flex;
-    gap: 22em;
+    gap: 28em;
     
 }
 
@@ -185,6 +185,7 @@ i:hover{
     display: flex;
     gap: 20px;
     margin-top: 20px;
+    margin-left: 2em;
 }
 .img1{
     border-radius: 5px;
