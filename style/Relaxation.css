@@ -6,7 +6,19 @@
     
 }
 .rel-mus{
-    margin-left: 50px;
+    padding: 5em 8em 5em 8em;
+}
+.lax{
+    margin-left: -7.1em;
+}
+.me{
+    display: flex;
+    margin-left: 16.1em;
+    gap: 1em;
+}
+.top-coo{
+    gap: 15em;
+    display: flex;
 }
 h4{
     color: white;
