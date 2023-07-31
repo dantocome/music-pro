@@ -17,54 +17,55 @@ header{
 }
 .buttom-coo{
     display: flex;
-    gap: 260px;
+    gap: 10em;
     z-index: -1;
+    margin-left: 10em;
 }
-.img19{
+.img31{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img20{
+.img32{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img21{
+.img33{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img22{
+.img34{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img23{
+.img35{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img24{
+.img36{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img25{
+.img37{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img26{
+.img38{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img27{
+.img39{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img28{
+.img40{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img29{
+.img41{
     border-radius: 2px;
     margin-top: 10px;
 }
-.img30{
+.img42{
     border-radius: 2px;
     margin-top: 10px;
 }

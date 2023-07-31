@@ -22,6 +22,30 @@
     
     
 }
+.img7{
+    border-radius: 5px;
+    width: 10em;
+}
+.img8{
+    border-radius: 5px;
+    width: 10em;
+}
+.img9{
+    border-radius: 5px;
+    width: 10em;
+}
+.img10{
+    border-radius: 5px;
+    width: 10em;
+}
+.img11{
+    border-radius: 5px;
+    width: 10em;
+}
+.img12{
+    border-radius: 5px;
+    width: 10em;
+}
 @media screen and (max-width:375px){
     .buttom-col{
         display: flex;

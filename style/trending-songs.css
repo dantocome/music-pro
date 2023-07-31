@@ -4,6 +4,8 @@
     min-height: 500px;
     
     
+
+    
 }
 h4{
     color: gray;
@@ -67,13 +69,16 @@ h3{
 }
 .buttom-co{
     display: flex;
-    gap: 150px;
+    gap: 50px;
     z-index: -1;
 
 }
 .songs{
-    margin-left: 50px;
+    margin-left: 13em;
     margin-top: 50px;
+}
+.mi{
+    margin-left: -10px;
 }
 
 
