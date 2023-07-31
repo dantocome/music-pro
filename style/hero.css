@@ -17,17 +17,6 @@
     z-index: -1;
      
 }
-header{
-    display: flex;
-    background-color: black;
-    position: sticky;
-    height: 5em;
-    top: 0;
-
-}
-.home_menu{
-    margin-left: 150px;
-}
 .mag{
     display: none;
 }

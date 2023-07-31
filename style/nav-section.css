@@ -1,0 +1,17 @@
+header .home_menu{
+    margin-left: 20em;
+    margin-top: -30px;
+    
+}
+header{
+    display: flex;
+    background-color: black;
+    position: sticky;
+    height: 5em;
+    align-items: center;
+    top: 0;
+
+}
+.log{
+    margin-left: 2em;
+}
