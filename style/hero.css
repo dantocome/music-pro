@@ -3,6 +3,7 @@
     min-height: 750px;
     position: relative;
     align-items: center;
+    z-index: -1;
     
     
 }
@@ -157,7 +158,7 @@ i:hover{
 .mixart_container{
     margin-top: -20px;
     padding: 5em 8em 5em 8em;
-    z-index: 1;
+    
    
 }
 .top-col{
