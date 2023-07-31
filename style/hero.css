@@ -161,7 +161,8 @@ i:hover{
    
 }
 .top-col{
-    
+    display: flex;
+    gap: 40em;
     
 }
 .buttom-col{
@@ -179,9 +180,8 @@ i:hover{
 .more{
     display: flex;
     gap: 20px;
-    float: right;
     margin-right: 9em;
-    margin-top: -40px;
+    margin-top: 20px;
 }
 .img1{
     border-radius: 5px;
@@ -241,6 +241,10 @@ h2{
 }
 .mum{
     padding: 10px;
+}
+.btttn{
+    height: 3em;
+
 }
 
 
