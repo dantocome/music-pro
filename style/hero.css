@@ -161,7 +161,7 @@ i:hover{
    
 }
 .top-col{
-    gap: 100px;
+    
     
 }
 .buttom-col{
@@ -180,7 +180,7 @@ i:hover{
     display: flex;
     gap: 20px;
     float: right;
-    margin-right: 13em;
+    margin-right: 9em;
     margin-top: -40px;
 }
 .img1{
