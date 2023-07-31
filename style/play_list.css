@@ -1,8 +1,8 @@
 .play_list .play-list-section{
     height: 100%;
     min-height: 500px;
-    background-color: black;
-    z-index: -1;
+    
+    
 }
 .recommended_container{
     margin-left: 40px;

@@ -4,6 +4,7 @@
 @import url("Relaxation.css");
 @import url("Happening.css");
 @import url("menus.css");
+@import url("nav-section.css");
 
 *{
     padding: 0;
@@ -13,4 +14,16 @@
     color-scheme: inherit;
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: black;
+    margin: 0;
+}
+header{
+    display: flex;
+    background-color: black;
+    position: sticky;
+    height: 5em;
+    top: 0;
+
 }

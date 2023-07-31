@@ -1,9 +1,8 @@
 .trending-songs .trend{
-    background-color: black;
     margin-top: -50px;
     height: 100%;
     min-height: 500px;
-    z-index: -1;
+    
     
 }
 h4{
