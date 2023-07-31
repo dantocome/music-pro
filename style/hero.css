@@ -158,8 +158,10 @@ i:hover{
     margin-top: -20px;
     padding: 5em 8em 5em 8em;
     z-index: 1;
-
-    
+   
+}
+.top-col{
+    gap: 100px;
     
 }
 .buttom-col{
@@ -172,7 +174,7 @@ i:hover{
  h1{
     color: white;
     font-size: 40px;
-    margin-left: 4em;
+    
 }
 .more{
     display: flex;
