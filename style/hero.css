@@ -162,12 +162,12 @@ i:hover{
 }
 .top-col{
     display: flex;
-    gap: 40em;
+    gap: 4em;
     
 }
 .ed{
     border: 1px solid white;
-    width: 20em;
+    
 }
 .buttom-col{
     display: flex;
