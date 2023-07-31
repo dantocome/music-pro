@@ -74,9 +74,23 @@ h3{
     z-index: -1;
 
 }
+.mo{
+    display: flex;
+    gap: 20px;
+}
+.qu{
+    margin-left: 0.1em;
+}
+.top-cl{
+    display: flex;
+    gap: 2em;
+}
 .songs{
-    margin-left: 13em;
+    padding: 5em 8em 5em 8em;
     margin-top: 50px;
+}
+.top-cl{
+    gap: 40em;
 }
 .mi{
     margin-left: -10px;
