@@ -162,13 +162,10 @@ i:hover{
 }
 .top-col{
     display: flex;
-    gap: 4em;
+    gap: 20em;
     
 }
-.ed{
-    border: 1px solid white;
-    
-}
+
 .buttom-col{
     display: flex;
     margin-top: 20px;
@@ -178,13 +175,14 @@ i:hover{
 }
  h1{
     color: white;
+    margin-left: -10em;
+    
     
     
 }
 .more{
     display: flex;
     gap: 20px;
-    margin-right: 9em;
     margin-top: 20px;
 }
 .img1{
