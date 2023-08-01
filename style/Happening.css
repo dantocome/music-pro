@@ -13,13 +13,12 @@ header{
  
 }
 .happening-mus{
-    margin-left: 50px;
+    padding: 5em 8em 5em 8em;
 }
 .buttom-coo{
     display: flex;
     gap: 10em;
-    z-index: -1;
-    margin-left: 10em;
+    
 }
 .img31{
     border-radius: 2px;
