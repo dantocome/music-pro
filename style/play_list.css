@@ -57,9 +57,16 @@
     width: 10em;
 }
 @media screen and (max-width:400px){
-    .left-col{
-        border: 1px solid white;
-        width: 20em
+    .top-col{
+        width: 20em;
+        margin-left: -1em;
         
+    }
+    .mor{
+        margin-left: 12em;
+    }
+    .btttn{
+        width:3.5em ;
+        height: 2.5em;
     }
 }
