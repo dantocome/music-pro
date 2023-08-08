@@ -34,3 +34,38 @@ header{
 span{
     color: white;
 }
+@media screen and (max-width:400px){
+    header{
+        height: 2.5em;
+        display: flex;
+        position: sticky;
+    }
+    .search{
+        display: flex;
+        margin-left: 8em;
+        gap: 2em;
+    }
+    .home_menu{
+        display: none;
+    }
+    .log{
+        display: flex;
+        gap: 1em;
+    }
+    .nu{
+        display: block;
+    }
+    .mag{
+        display: block;
+    }
+    .butt{
+        display: block;
+        width: 1.8em;
+        font-size: 1em;
+        font-weight: 500;
+        color: rgb(229, 225, 225);
+        background-color: rgb(177, 175, 175);
+        border: none;
+        border-radius: 50%;
+    }
+}

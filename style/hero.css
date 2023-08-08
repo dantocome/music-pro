@@ -230,6 +230,52 @@ h3{
     height: 3em;
 
 }
+.col{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
+.ra{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
+.mend{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
+@media screen and (max-width:400px){
+    .circle_container{
+        background-image: url(https://www.gstatic.com/youtube/media/ytm/images/sbg/wsbg@4000x2250.png?sqp=CNzu9_sF-oaymwEICKALEKcGWAE&rs=ALLJMcLFnwAjdffUTx-fXHiZGS2JeF3eFg);
+        filter: blur(100px);
+        max-width: 400px;
+        height: 100px;
+        margin-left: -6em;
+    }
+    .circles:nth-child(1){
+        display: none;
+        background-color: none;
+    }
+    .circles:nth-child(2){
+        display: none;
+        background-color: none;
+    }
+    .circles:nth-child(3){
+        display: none;
+        background-color:none ;
+    }
+    .but{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 3em;
+    }
+    .buttom-col{
+        display: flex;
+        flex-wrap:wrap;
+    }
+}
 
 
 
