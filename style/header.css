@@ -34,26 +34,3 @@ header{
 span{
     color: white;
 }
-@media screen and (max-width:375px){
-  header{
-    display: flex;
-    background-color: black;
-    position: sticky;
-    height: 5em;
-    align-items: center;
-    top: 0;
-
-  } 
-  .log{
-    display: flex;
-    gap: 20px;
-    margin-top: -25px;
-}
-.search{
-    margin-left: 0.1em;
-}
-  
-  .home{
-    display: none;
-  } 
-}

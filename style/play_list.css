@@ -56,9 +56,3 @@
     border-radius: 5px;
     width: 10em;
 }
-@media screen and (max-width:375px){
-    .buttom-col{
-        display: flex;
-        flex-direction: column;
-    }
-}

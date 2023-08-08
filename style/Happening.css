@@ -68,9 +68,3 @@ header{
     border-radius: 2px;
     margin-top: 10px;
 }
-@media screen and (max-width:375px){
-    .buttom-coo{
-        display: flex;
-        flex-direction: column;
-    }
-}
