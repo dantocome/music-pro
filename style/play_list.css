@@ -56,3 +56,10 @@
     border-radius: 5px;
     width: 10em;
 }
+@media screen and (max-width:400px){
+    .left-col{
+        border: 1px solid white;
+        width: 20em
+        
+    }
+}

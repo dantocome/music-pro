@@ -142,8 +142,7 @@ i:hover{
    
 }
 .top-col{
-    display: flex;
-    gap: 28em;
+ 
     
 }
 
@@ -156,10 +155,7 @@ i:hover{
 }
  h1{
     color: white;
-    
-    
-    
-    
+
 }
 .more{
     display: flex;
@@ -260,6 +256,19 @@ h3{
     flex-direction: row;
     gap: 1.5em;
 }
+.press{
+    margin-left: 26em;
+    display: flex;
+    gap: 1em;
+}
+.More{
+  color: white;  
+  background-color: black;
+  border: 1px solid rgb(62, 60, 60);
+  height: 2.5em;
+  width: 3.5em;
+  border-radius: 40%;
+}
 @media screen and (max-width:400px){
     .circle_container{
         background-image: url(https://www.gstatic.com/youtube/media/ytm/images/sbg/wsbg@4000x2250.png?sqp=CNzu9_sF-oaymwEICKALEKcGWAE&rs=ALLJMcLFnwAjdffUTx-fXHiZGS2JeF3eFg);
@@ -285,27 +294,48 @@ h3{
         align-items: center;
         justify-content: center;
         margin-left: 3em;
+        margin-top: -3em;
     }
     .buttom-col{
         display: flex;
         flex-wrap:wrap;
-        margin-left: -5em;
+        margin-left: -6em;
+    
     }
     .top-col{
-        display: flex;
+     display: flex;
+     width: 20em;
+     margin-top: -3em;
+     
         
         
     }
-    .more{
-        margin-left: -40em;
-    }
+    
     h1{
-       width: 6em;
+       font-size: 1em;
+       margin-left: -5em;
+    
         
+    }
+    .mixart_container{
+        margin-top: -5em;
     }
     .mix{
-        width: 5em;
+        
     }
+    .bt{
+        width: 2em;
+        height: 2em;
+    }
+    .btttn{
+        
+    }
+    .press{
+        display: flex;
+        margin-left: -17em;
+        
+    }
+    
 }
 
 
