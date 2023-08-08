@@ -50,3 +50,18 @@ h4{
     border-radius: 5px;
     width: 10em;
 }
+.rus{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
+.togo{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
+.bras{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}

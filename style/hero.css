@@ -156,7 +156,7 @@ i:hover{
 }
  h1{
     color: white;
-    margin-left: -14em;
+    
     
     
     
@@ -165,7 +165,7 @@ i:hover{
     display: flex;
     gap: 20px;
     margin-top: 20px;
-    margin-left: 2em;
+    margin-left: 25em;
 }
 .img1{
     border-radius: 5px;
@@ -245,6 +245,21 @@ h3{
     flex-direction: row;
     gap: 1.5em;
 }
+.rest{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
+.match{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
+.go{
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
 @media screen and (max-width:400px){
     .circle_container{
         background-image: url(https://www.gstatic.com/youtube/media/ytm/images/sbg/wsbg@4000x2250.png?sqp=CNzu9_sF-oaymwEICKALEKcGWAE&rs=ALLJMcLFnwAjdffUTx-fXHiZGS2JeF3eFg);
@@ -274,6 +289,22 @@ h3{
     .buttom-col{
         display: flex;
         flex-wrap:wrap;
+        margin-left: -5em;
+    }
+    .top-col{
+        display: flex;
+        
+        
+    }
+    .more{
+        margin-left: -40em;
+    }
+    h1{
+       width: 6em;
+        
+    }
+    .mix{
+        width: 5em;
     }
 }
 
