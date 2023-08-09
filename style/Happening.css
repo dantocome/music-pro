@@ -77,12 +77,25 @@ header{
         flex-direction: column;
         margin-left: -7em;
     }
-    .more{
-        margin-left: -20em;
+    .re{
+        margin-left: -12em;
+        margin-top: -0.5em;
     }
     .song-group{
         display: flex;
         flex-direction: column;
+    }
+    .happening-mus{
+        margin-top: -3em;
+    }
+    .di{
+        margin-top: 0.2em;
+    }
+    .song-grp{
+        margin-top: -7em;
+    }
+    .song-grop{
+        margin-top: -7em;
     }
     
 }
