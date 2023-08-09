@@ -67,9 +67,13 @@ h4{
 }
 @media screen and (max-width:400px){
     .me{
-        margin-left: -30em;
+        margin-left: -23em;
     }
     .top-coo{
-        margin-left: -10em;
+        margin-left: -13em;
+        display: flex;
+    }
+    .rel-mus{
+        margin-top: -5em;
     }
 }

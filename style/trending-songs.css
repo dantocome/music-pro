@@ -2,18 +2,16 @@
     margin-top: -50px;
     height: 100%;
     min-height: 500px;
-    align-items: center;
-    
-    
-
-    
+    align-items: center; 
 }
 h4{
     color: gray;
 }
-h3{
+.mum{
     color: white;
     font-size: 18px;
+    font-weight: bold;
+    margin-left: -0.5em;
 }
 .img7{
     margin-top: 10px;
@@ -125,28 +123,85 @@ h3{
 h5{
     color: white;
 }
+.song-group2{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
 @media screen and (max-width:400px){
     .buttom-co{
         display: flex;
         flex-direction: column;
-    }
-    .mo{
-        margin-left: -40em;
-    }
-    h4{
-       width: 5em;
-       
-    }
-    .hi{
-        border: 1px solid white;
         
     }
-    h1{
-        font-size: 1em;
+    .mo{
+        margin-left: -33em;
+        margin-top: 1em;
+    }
+    
+    .hi{
+        border: 1px solid white;
+        width: 3em;
+        
+    }
+    h4{
+        font-size: 0.7em;
         
     }
     .top-cl{
         display: flex;
+        width: 23.5em;
+        padding: 0.1em 0.2em 0.1em 0.2em;
     }
+    span{
+        width: 3em;
+        font-size: 0.9em;
+    }
+    .songs{
+        margin-left: -7em;
+        margin-top: -7em;
+    }
+    .rosy{
+        font-size: 0.8em;
+    }
+    .mum{
+        font-size: 0.7em;
+    }
+    .img14{
+        margin-top: 1em;
+    }
+    .img18{
+        margin-top: 1.3em;
+    }
+    .img19{
+        margin-top: 1.2em;
+    }
+    .img20{
+        margin-top: 1em;
+    }
+    .dia{
+        margin-top: 0.1em;
+    }
+    .muk{
+        margin-top: 0.4em;
+    }
+    .song-group3{
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+    }
+    .guy{
+       margin-top: -0.8em; 
+    }
+    .did{
+        margin-top: -0.8em;
+    }
+    .mk{
+        margin-top: -0.8em;
+    }
+    .di{
+        margin-top: -0.9em;
+    }
+    
     
 }
