@@ -69,8 +69,12 @@ header{
     margin-top: 10px;
 }
 @media screen and (max-width:400px){
-    .song-group1{
-        
+    .buttom-coo{
+        display: flex;
+        flex-direction: column;
+    }
+    .more{
+        margin-left: -20em;
     }
     
 }
